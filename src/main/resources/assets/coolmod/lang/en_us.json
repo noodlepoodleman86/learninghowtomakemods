@@ -1,4 +1,9 @@
 {
   "item.coolmod.cook": "We're so Cooked",
-  "item.coolmod.astley": "Never gonna give you up"
+  "item.coolmod.astley": "Never gonna give you up",
+  "item.coolmod.meme_ingot": "Memeinite Ingot",
+
+  "itemgroup.memes": "Memes Group",
+
+  "block.coolmod.omni_block": "Are You Sure?"
 }

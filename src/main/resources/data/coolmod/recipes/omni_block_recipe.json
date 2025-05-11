@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "$D$",
+    "$$$"
+  ],
+  "key": {
+    "#": {
+      "item": "coolmod:astley"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "$": {
+      "item": "coolmod:cook"
+    }
+  },
+  "result": {
+    "item": "coolmod:omni_block"
+  }
+}
