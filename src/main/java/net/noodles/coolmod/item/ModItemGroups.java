@@ -13,7 +13,7 @@ import net.noodles.coolmod.block.ModBlocks;
 
 public class ModItemGroups {
 
-    public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
+    public static final ItemGroup MEME_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(CoolMod.MOD_ID, "memes"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.memes"))
                     .icon(() -> new ItemStack(ModItems.ASTLEY)).entries((displayContext, entries) -> {
@@ -24,12 +24,14 @@ public class ModItemGroups {
 
                         entries.add(Items.DIAMOND);
                         entries.add(ModBlocks.OMNI_BLOCK);
+
+                        // ores
+                        entries.add(ModBlocks.MEME_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_MEME_ORE);
                         CoolMod.LOGGER.info("lol");
 
                     }).build());
-    public static void hi() {
 
-    }
     public static void registerItemGroups() {
         CoolMod.LOGGER.info("Registering le Item Groups for " + CoolMod.MOD_ID);
 

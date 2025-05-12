@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "coolmod:omni_block"
+    "coolmod:omni_block",
+    "coolmod:meme_ore",
+    "coolmod:deepslate_meme_ore"
   ]
 }

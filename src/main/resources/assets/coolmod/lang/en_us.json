@@ -5,5 +5,7 @@
 
   "itemgroup.memes": "Memes Group",
 
-  "block.coolmod.omni_block": "Are You Sure?"
+  "block.coolmod.omni_block": "Are You Sure?",
+  "block.coolmod.meme_ore": "Memeinite Ore",
+  "block.coolmod.deepslate_meme_ore": "Deepslate Memeinite Ore"
 }

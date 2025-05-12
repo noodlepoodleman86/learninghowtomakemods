@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "coolmod:meme_ore",
+    "coolmod:deepslate_meme_ore"
 
   ]
 }
